@@ -22,10 +22,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="lib/mokito-1.9.5/cglib-nodep-2.2.2.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/mokito-1.9.5/javassist-3.18.0-GA.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/mokito-1.9.5/objenesis-1.2.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/mokito-1.9.5/mockito-all-1.9.5.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/mokito-1.9.5/powermock-mockito-1.5.1-full.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
