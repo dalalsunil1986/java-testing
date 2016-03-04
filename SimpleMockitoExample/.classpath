@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="lib" path="lib/cglib-nodep-2.2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/javassist-3.18.0-GA.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mockito-all-1.9.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/objenesis-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/powermock-mockito-1.5.1-full.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/junit4_4.3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
